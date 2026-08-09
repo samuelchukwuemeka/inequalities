@@ -2,10 +2,8 @@
     Copyright 2018 - Samuel Dominic Chukwuemeka (Samdom For Peace)
     www.samuelchukwuemeka.com
     www.chukwuemekasamuel.com
-    www.chukwuemeka-samuel.appspot.com
     www.samdomforpeace.com
-    www.samdomforpeace.appspot.com
-    www.inequalities.appspot.com/wordProblemsInequalities.html
+    https://samuelchukwuemeka.github.io/inequalities/wordProblemsInequalities.html
     message 7
 */
 

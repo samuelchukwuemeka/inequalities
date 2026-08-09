@@ -2,10 +2,8 @@
     Copyright 2018 - Samuel Dominic Chukwuemeka (SamDom For Peace)
     www.samuelchukwuemeka.com
     www.chukwuemekasamuel.com
-    www.samdomforpeace.com
-    www.chukwuemeka-samuel.appspot.com
-    www.samdomforpeace.appspot.com
-    www.inequalities.appspot.com/quadraticInequalities.html
+    www.samdomforpeace.com 
+    https://samuelchukwuemeka.github.io/inequalities/quadraticInequalities.html
     message 12
 */
 
